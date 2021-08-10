@@ -8,4 +8,5 @@ Step 4: Run "sudo apt-get upgrade" * the distro will become Debian 10.10+
 Step 5: Run "sudo apt install qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager -y"
 Step 6: Create VM with Win 10 iso and virtIO driver iso
 
-
+Install RDP Client
+sudo apt install remmina remmina-plugin-vnc
